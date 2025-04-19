@@ -10,9 +10,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0076-minimum-window-substring) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AdityaAdi07/leetcode_striver/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AdityaAdi07/leetcode_striver/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Hash Table
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0076-minimum-window-substring) |
+## String
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
