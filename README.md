@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0076-minimum-window-substring) |
+| [0678-valid-parenthesis-string](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0678-valid-parenthesis-string) |
 ## Counting
 |  |
 | ------- |
@@ -44,5 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0890-lemonade-change) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0678-valid-parenthesis-string) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
