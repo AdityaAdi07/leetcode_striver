@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0219-contains-duplicate-ii) |
+| [0890-lemonade-change](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0890-lemonade-change) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AdityaAdi07/leetcode_striver/tree/master/1034-subarrays-with-k-different-integers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AdityaAdi07/leetcode_striver/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
