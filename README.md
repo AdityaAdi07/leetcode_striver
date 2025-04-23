@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0134-gas-station) |
 | [0219-contains-duplicate-ii](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0219-contains-duplicate-ii) |
+| [0435-non-overlapping-intervals](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0435-non-overlapping-intervals) |
 | [0890-lemonade-change](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0890-lemonade-change) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AdityaAdi07/leetcode_striver/tree/master/1034-subarrays-with-k-different-integers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AdityaAdi07/leetcode_striver/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0134-gas-station) |
+| [0435-non-overlapping-intervals](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0890-lemonade-change) |
 ## Dynamic Programming
@@ -61,9 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0678-valid-parenthesis-string) |
+## Sorting
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
