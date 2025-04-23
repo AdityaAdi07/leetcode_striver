@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0006-zigzag-conversion) |
 | [0076-minimum-window-substring](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0076-minimum-window-substring) |
 | [0678-valid-parenthesis-string](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0678-valid-parenthesis-string) |
 ## Counting
