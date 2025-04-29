@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/AdityaAdi07/leetcode_striver/tree/master/1034-subarrays-with-k-different-integers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AdityaAdi07/leetcode_striver/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2249-count-the-hidden-sequences](https://github.com/AdityaAdi07/leetcode_striver/tree/master/2249-count-the-hidden-sequences) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/AdityaAdi07/leetcode_striver/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Sliding Window
 |  |
 | ------- |
@@ -80,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Matrix
+|  |
+| ------- |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/AdityaAdi07/leetcode_striver/tree/master/3708-zigzag-grid-traversal-with-skip) |
+## Simulation
+|  |
+| ------- |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/AdityaAdi07/leetcode_striver/tree/master/3708-zigzag-grid-traversal-with-skip) |
 <!---LeetCode Topics End-->
