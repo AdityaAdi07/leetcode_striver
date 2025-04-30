@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0547-number-of-provinces) |
 ## Greedy
 |  |
 | ------- |
@@ -89,4 +90,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/AdityaAdi07/leetcode_striver/tree/master/3708-zigzag-grid-traversal-with-skip) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
