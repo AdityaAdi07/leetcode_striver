@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0890-lemonade-change](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0890-lemonade-change) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AdityaAdi07/leetcode_striver/tree/master/1034-subarrays-with-k-different-integers) |
+| [1036-rotting-oranges](https://github.com/AdityaAdi07/leetcode_striver/tree/master/1036-rotting-oranges) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AdityaAdi07/leetcode_striver/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2249-count-the-hidden-sequences](https://github.com/AdityaAdi07/leetcode_striver/tree/master/2249-count-the-hidden-sequences) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/AdityaAdi07/leetcode_striver/tree/master/3708-zigzag-grid-traversal-with-skip) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1036-rotting-oranges](https://github.com/AdityaAdi07/leetcode_striver/tree/master/1036-rotting-oranges) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/AdityaAdi07/leetcode_striver/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Simulation
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/AdityaAdi07/leetcode_striver/tree/master/1036-rotting-oranges) |
 ## Graph
 |  |
 | ------- |
