@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/AdityaAdi07/leetcode_striver/tree/master/1073-number-of-enclaves) |
 ## Greedy
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/AdityaAdi07/leetcode_striver/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
@@ -112,10 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/AdityaAdi07/leetcode_striver/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/AdityaAdi07/leetcode_striver/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
