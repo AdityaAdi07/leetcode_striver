@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0219-contains-duplicate-ii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0076-minimum-window-substring) |
 | [0678-valid-parenthesis-string](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0678-valid-parenthesis-string) |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0801-is-graph-bipartite) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AdityaAdi07/leetcode_striver/tree/master/2121-find-if-path-exists-in-graph) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
