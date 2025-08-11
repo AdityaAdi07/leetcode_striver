@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0004-median-of-two-sorted-arrays) |
 | [0045-jump-game-ii](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0056-merge-intervals) |
@@ -132,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0013-roman-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
