@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0542-01-matrix](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0542-01-matrix) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0347-top-k-frequent-elements) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AdityaAdi07/leetcode_striver/tree/master/1034-subarrays-with-k-different-integers) |
 ## String
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0347-top-k-frequent-elements) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AdityaAdi07/leetcode_striver/tree/master/1034-subarrays-with-k-different-integers) |
 ## Union Find
 |  |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Matrix
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -205,4 +210,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0148-sort-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
