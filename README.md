@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0057-insert-interval) |
 | [0128-longest-consecutive-sequence](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0134-gas-station) |
+| [0169-majority-element](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0219-contains-duplicate-ii) |
 | [0435-non-overlapping-intervals](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0219-contains-duplicate-ii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AdityaAdi07/leetcode_striver/tree/master/1034-subarrays-with-k-different-integers) |
 ## String
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0169-majority-element) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AdityaAdi07/leetcode_striver/tree/master/1034-subarrays-with-k-different-integers) |
 ## Union Find
 |  |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Matrix
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
