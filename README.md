@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0890-lemonade-change) |
+| [0940-fruit-into-baskets](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AdityaAdi07/leetcode_striver/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/AdityaAdi07/leetcode_striver/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/AdityaAdi07/leetcode_striver/tree/master/1073-number-of-enclaves) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0940-fruit-into-baskets](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AdityaAdi07/leetcode_striver/tree/master/1034-subarrays-with-k-different-integers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AdityaAdi07/leetcode_striver/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0560-subarray-sum-equals-k) |
+| [0940-fruit-into-baskets](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0940-fruit-into-baskets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AdityaAdi07/leetcode_striver/tree/master/1034-subarrays-with-k-different-integers) |
 ## String
 |  |
