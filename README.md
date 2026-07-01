@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0542-01-matrix](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0733-flood-fill) |
 | [0890-lemonade-change](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0890-lemonade-change) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AdityaAdi07/leetcode_striver/tree/master/1034-subarrays-with-k-different-integers) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0560-subarray-sum-equals-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AdityaAdi07/leetcode_striver/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2249-count-the-hidden-sequences](https://github.com/AdityaAdi07/leetcode_striver/tree/master/2249-count-the-hidden-sequences) |
 ## Hash Table
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/AdityaAdi07/leetcode_striver/tree/master/0560-subarray-sum-equals-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AdityaAdi07/leetcode_striver/tree/master/1034-subarrays-with-k-different-integers) |
 ## String
 |  |
